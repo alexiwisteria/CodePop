@@ -1,0 +1,5 @@
+com/alexiwisteria/codepop/controller/SnippetController.class
+com/alexiwisteria/codepop/model/Snippet.class
+com/alexiwisteria/codepop/CodePopApplication.class
+com/alexiwisteria/codepop/service/SnippetService.class
+com/alexiwisteria/codepop/repository/SnippetRepository.class

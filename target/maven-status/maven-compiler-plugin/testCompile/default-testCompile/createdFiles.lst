@@ -1,0 +1,4 @@
+com/alexiwisteria/codepop/model/SnippetTest.class
+com/alexiwisteria/codepop/service/SnippetServiceTest.class
+com/alexiwisteria/codepop/CodePopApplicationTests.class
+com/alexiwisteria/codepop/controller/SnippetControllerTest.class
